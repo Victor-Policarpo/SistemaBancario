@@ -2,6 +2,7 @@
 
 Mini-projeto desenvolvido em **Java puro**, com base na **Programação Orientada a Objetos (POO)**.  
 O objetivo é simular um sistema bancário simples com operações de saque, depósito e consulta de saldo.
+Este projeto e apenas educacional.
 
 ---
 
